@@ -8,4 +8,4 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](leetcode/algorithms/python/1_twoSum/twoSum.py)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python](algorithms/python/1_twoSum/twoSum.py)|Easy|
